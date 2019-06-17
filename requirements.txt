@@ -1,1 +1,2 @@
 azure==4.0.0
+azure-datalake-store==0.0.45
